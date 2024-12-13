@@ -1,7 +1,7 @@
 hi this is git repo
-this is the 2nd commit
+is this  the 2nd commit? Manas??
 this is my 3rd commit
-
+This is the 4th commit
 Making changes to Betty's repo
 
 
